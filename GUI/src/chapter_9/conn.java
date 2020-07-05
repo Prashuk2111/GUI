@@ -13,7 +13,7 @@ public class conn
        {
            
            
-           con=DriverManager.getConnection("jdbc:mysql://localhost:3306/school" , "root" , "Himanshi@2109");
+           con=DriverManager.getConnection("jdbc:mysql://localhost:Enter_your_localhost_number/school" , "root" , "Enter_your_root_password");
 
        }
         catch(Exception e)
