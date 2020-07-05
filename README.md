@@ -6,4 +6,9 @@ STUDENT REGISTRATION FORM WITH GUI INTERFACE
 
 ## Steps to follow
 1. Copy the code in *mysql_commands* and paste it in MySql workbench and compile it<br />
-2. Open the *GUI* folder in eclipse for Java and run it
+2. Open the *GUI* folder in eclipse for Java<br />
+3. Go to *GUI/src/chapter_9/conn.java* and enter the required info as stated there<br />
+4. Run the whole folder
+
+
+
